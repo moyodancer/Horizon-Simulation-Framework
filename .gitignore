@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# Windows VIsual Studio Files
+*.sdf
+*.suo
+*.user
+*.ncb
+*.sbr
+*.*log
+*.ipch
+*.suo
