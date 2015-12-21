@@ -6,3 +6,5 @@ C:\Users\emehiel.CALPOLY\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v
 C:\Users\emehiel.CALPOLY\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v_3_0\Horizon_v_3_0\bin\Debug\Horizon_Utilities.pdb
 C:\Users\emehiel.CALPOLY\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v_3_0\Horizon_v_3_0\obj\Debug\Horizon_v_3_0.exe
 C:\Users\emehiel.CALPOLY\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v_3_0\Horizon_v_3_0\obj\Debug\Horizon_v_3_0.pdb
+C:\Users\Morgan\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v_3_0\Horizon_v_3_0\bin\Debug\Horizon_v_3_0.exe.config
+C:\Users\Morgan\Documents\GitHub\Horizon-Simulation-Framework\Horizon_v_3_0\Horizon_v_3_0\obj\Debug\Horizon_v_3_0.pdb
