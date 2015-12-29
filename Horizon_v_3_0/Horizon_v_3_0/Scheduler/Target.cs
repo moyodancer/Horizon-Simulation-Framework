@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using Horizon.Universe;
 
-namespace Horizon
+namespace System_H
 {
     /**
     * A named location denoting where a task is to be performed.
@@ -15,34 +15,30 @@ namespace Horizon
     class Target
     {
         /** The name of the target */
-        String Name { get; set; }
+        private string _name { get; set; }
 
         /** The type of the target */
-        TargetType TargetType { get; set; }
+        private string _targetType { get; set; }
 
         /** The position of the target */
-        DynamicState DynamicState { get; set; }
+        protected DynamicState _dynamicState { get; set; }
 
         /** The value of the target */
-        int Value { get; set; }
+        protected int _value { get; set; }
 
-        // TODO: What should we do with these?
-        /*
-        int minQualCM;
+        protected int minQualCM;
 
-        int freq_days;
-        string CC;
-        string WX_Reg;
-        */
-
-        String Comment { get; set; }
+        protected int freq_days;
+        protected string CC;
+        protected string WX_Reg;
+        protected string Comment { get }
 
         public Target(String name, TargetType type, DynamicState dynamicState, int value)
         {
-            this.Name = name;
-            this.TargetType = type;
-            this.DynamicState = dynamicState;
-            this.Value = value;
+            _Name = name;
+            _TargetType = type;
+            _DynamicState = dynamicState;
+            _Value = value;
         }
 
         /**

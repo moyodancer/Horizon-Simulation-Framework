@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Horizon
+namespace Scheduler
 {
     /// <summary>
     /// An action to be performed at a target, with limitations and suggestions for scheduling.
