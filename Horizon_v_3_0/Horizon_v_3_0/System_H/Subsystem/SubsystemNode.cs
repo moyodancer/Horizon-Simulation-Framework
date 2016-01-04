@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using util;
 
 
-namespace System_H
+namespace Subsystem
 {
 		public class SubsystemNode{
 			private bool _isChecked {get; private set};
